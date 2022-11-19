@@ -1,0 +1,2 @@
+# MAFIA
+Afk bot
